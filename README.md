@@ -1,5 +1,9 @@
 # Lab Insight AI 🧪🤖
 
+## Live Application
+
+https://lab-insight-ai-hdg3.vercel.app/
+
 ## Overview
 Lab Insight AI is an AI-powered clinical laboratory assistant designed to help biochemistry and medical students understand laboratory tests, concepts, and result interpretations. The app provides simple AI explanations and learning support to make clinical laboratory education easier and more accessible.
 
